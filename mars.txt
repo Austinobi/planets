@@ -4,3 +4,4 @@ But the Mummy will appreciate the lack of humidity
 To elaborate the git diff command on stagging area
 An ill-considered change
 Revising my git diff command
+error
